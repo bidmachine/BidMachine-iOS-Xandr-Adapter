@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  AdMobBidMachineSample
+//  BidMachineSample
 //
 //  Copyright © 2019 bidmachine. All rights reserved.
 //
